@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 Jun 2020 19:04:50 at https://demos.themesindustry.com/megaone/index-personal.html#home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demos.themesindustry.com/megaone/index-personal.html#home -O1 "C:\My Web Sites\profile" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:05:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+19:05:24	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/home (from primary/primary)
+19:05:43	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/home (from primary/primary)
+19:05:45	Warning: 	File not parsed, looks like binary: https://demos.themesindustry.com/megaone/vendor/fonts/fa-brands-400.woff2
+19:05:46	Warning: 	File not parsed, looks like binary: https://demos.themesindustry.com/megaone/vendor/fonts/fa-regular-400.woff2
+19:05:46	Warning: 	File not parsed, looks like binary: https://demos.themesindustry.com/megaone/vendor/fonts/fa-solid-900.woff2
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/fonts/revicons/revicons.eot?5510888 (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/fonts/revicons/revicons.woff?5510888 (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/fonts/revicons/revicons.ttf?5510888 (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/fonts/revicons/revicons.svg?5510888 (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/css/openhand.cur (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/css/closedhand.cur (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/assets/gridtile.png (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/assets/gridtile_white.png (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/assets/gridtile_3x3.png (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/assets/gridtile_3x3_white.png (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/assets/coloredbg.png (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/assets/loader.gif (from https://demos.themesindustry.com/megaone/vendor/css/revolution-settings.min.css)
+19:05:48	Error: 	"Not Found" (404) at link https://demos.themesindustry.com/megaone/vendor/css/owl.video.play.png (from https://demos.themesindustry.com/megaone/vendor/css/owl.carousel.min.css)
+19:05:48	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/home (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 58 seconds : 90 links scanned, 72 files written (7010750 bytes overall) [4441061 bytes received at 76570 bytes/sec], 3637145 bytes transferred using HTTP compression in 35 files, ratio 28%, 21.5 requests per connection
+(15 errors, 5 warnings, 0 messages)
